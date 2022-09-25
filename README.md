@@ -49,7 +49,7 @@ I'm also very good as a technical support or writing this shit here. But i want 
  <br>
 <p>
   <div align="center">
-<img src="https://media3.giphy.com/media/1o9Z26h19Ck1cdr1TL/giphy.gif?cid=790b761132ae0e478760bd4c9d5f455af8151cacfe377af4&rid=giphy.gif&ct=g" "width="390.5px" height="208.5px" align="right">
+<img src="https://media3.giphy.com/media/1o9Z26h19Ck1cdr1TL/giphy.gif?cid=790b761132ae0e478760bd4c9d5f455af8151cacfe377af4&rid=giphy.gif&ct=g" height="208.5px" align="right">
   </div>
 </div>
 <div>
