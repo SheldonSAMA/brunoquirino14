@@ -3,26 +3,26 @@
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.gifer.com/EofK.gif" align="center">
-  </div>
+<img alt="GIF" align="center" src="https://media4.giphy.com/media/R91S9qNaQI1Uw4LAt4/giphy.gif?cid=790b761118c94719ecd0733692ca4792c6e22066fcaab3d3&rid=giphy.gif">
+</div>
     
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://media4.giphy.com/media/hSRGblz6bOnav0v8zv/giphy.gif?cid=790b76116b59b1a6a8df16c4c362e08c473efa337cc92cfc&rid=giphy.gif&ct=g" align="right">
   </div>
 <li>
- <b>Name:</b> Bruno</li>
+ <b>Name:</b> Bruno "Quirino" Alvarenga</li>
 
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> Animes, games and cooking!
 </li>
 <li>
 <b>Gender:</b> Male
 </li>
 
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Game and web development
 </li>
 <li>
 <b>Working @:</b> Intave Anticheat
@@ -34,7 +34,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://media4.giphy.com/media/Yv8R5eJW7geOI4gCay/giphy.gif?cid=790b7611c6b6d6db63e164a30cede1913e4bc6a362657387&rid=giphy.gif&ct=g" align="right">
   </div>
 </div>
 <div>
@@ -45,8 +45,8 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 </p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-  <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  <div align="right">
+<img src="https://media3.giphy.com/media/1o9Z26h19Ck1cdr1TL/giphy.gif?cid=790b761132ae0e478760bd4c9d5f455af8151cacfe377af4&rid=giphy.gif&ct=g" "width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
@@ -54,6 +54,10 @@ most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
+<br>
+<br>
+
+
 <br>
 <div>
 <h2 align="center"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! </h2>
