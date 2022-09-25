@@ -9,7 +9,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media4.giphy.com/media/hSRGblz6bOnav0v8zv/giphy.gif?cid=790b76116b59b1a6a8df16c4c362e08c473efa337cc92cfc&rid=giphy.gif&ct=g" align="right">
+<img src="https://media4.giphy.com/media/hSRGblz6bOnav0v8zv/giphy.gif?cid=790b76116b59b1a6a8df16c4c362e08c473efa337cc92cfc&rid=giphy.gif&ct=g" align="right""width="390.5px" height="208.5px">
   </div>
 <li>
  <b>Name:</b> Bruno "Quirino" Alvarenga</li>
@@ -34,7 +34,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://media4.giphy.com/media/Yv8R5eJW7geOI4gCay/giphy.gif?cid=790b7611c6b6d6db63e164a30cede1913e4bc6a362657387&rid=giphy.gif&ct=g" align="right">
+<img src="https://media4.giphy.com/media/Yv8R5eJW7geOI4gCay/giphy.gif?cid=790b7611c6b6d6db63e164a30cede1913e4bc6a362657387&rid=giphy.gif&ct=g" "width="390.5px" height="208.5px" align="right">
   </div>
 </div>
 <div>
