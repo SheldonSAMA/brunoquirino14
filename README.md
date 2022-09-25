@@ -7,7 +7,7 @@
 </div>
     
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 👾 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👾 </h2>
   <div align="center">
 <img src="https://media4.giphy.com/media/hSRGblz6bOnav0v8zv/giphy.gif?cid=790b76116b59b1a6a8df16c4c362e08c473efa337cc92cfc&rid=giphy.gif&ct=g" align="right""width="390.5px" height="208.5px">
   </div>
@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Game and web development
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Working at:</b> National Institute of Telecommunications
 </li>
 <br><br><br>
 </div>
@@ -41,18 +41,28 @@
   <br>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
+Im also very good as a technical support or writing this shit here. But i want to ingress on software development market.
 </p>
 <br>
+  <div>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-  <div align="right">
-<img src="https://media3.giphy.com/media/1o9Z26h19Ck1cdr1TL/giphy.gif?cid=790b761132ae0e478760bd4c9d5f455af8151cacfe377af4&rid=giphy.gif&ct=g" "width="373.5px" height="208.5px">
+ <br>
+<p>
+  <div align="center">
+<img src="https://media3.giphy.com/media/1o9Z26h19Ck1cdr1TL/giphy.gif?cid=790b761132ae0e478760bd4c9d5f455af8151cacfe377af4&rid=giphy.gif&ct=g" "width="390.5px" height="208.5px" align="right">
   </div>
+</div>
+<div>
+  <br>
+<p align="center"><p align="center">Here are some of my <br>
+most used social networks :D </p>
+
+</p>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+
+
+<br>
+
 </div>
 <br>
 <br>
@@ -62,7 +72,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! </h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://media4.giphy.com/media/C9GeN0Ft5WLOsW8Kmh/giphy.gif?cid=790b76115d5c5f8237e6bac143161302cfa6fe5e16c927f0&rid=giphy.gif&ct=g""width="390.5px" height="208.5px">
 </div>
 <hr>
 </div>
